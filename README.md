@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Use - git clone --single-branch -b main https://github.com/Devojoytip/react-mini-template.git .
 
 ## Available Scripts
 
